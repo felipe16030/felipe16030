@@ -15,6 +15,8 @@ My interests include: AI, Modelling and Simulation, 80's Rock, and the NFL
 #### Previously...
 
 - 🤖 I worked with the National Robotics and Engineering Center
+- ⚡ I competed in the FIRST Tech Challenge (2019 World Champion)
+- 🏓 I worked with the GT Web Dev Club on [PunchShot Pickleball](https://github.com/GTWebDevOrg/Punchshot-Pickleball)
 
 #### Languages and Tools...
 
