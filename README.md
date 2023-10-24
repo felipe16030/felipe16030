@@ -8,4 +8,7 @@ My interests include: AI 🧠, Modelling and Simulation 📈, 80's Rock 🎸, an
 
 #### Currently...
 
-I am working on 
+- I am developing CropLocal's mobile app: boosting farmer's markets 🌲
+- I am redesigning MySTEM Academy's website 💻
+
+#### Previously...
