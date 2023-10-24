@@ -18,5 +18,6 @@ My interests include: AI 🧠, Modelling and Simulation 📈, 80's Rock 🎸, an
 
 #### Conect wth me:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/felipe-bergerman-932618251/)
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/felipe-bergerman-932618251/)
+[![Google](https://skillicons.dev/icons?i=gcp)](felipebergerman@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=discord)]
