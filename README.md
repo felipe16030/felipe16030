@@ -8,7 +8,14 @@ My interests include: AI 🧠, Modelling and Simulation 📈, 80's Rock 🎸, an
 
 #### Currently...
 
-- I am developing CropLocal's mobile app: boosting farmer's markets 🌲
-- I am redesigning MySTEM Academy's website 💻
+- 🌲 I am developing [CropLocal's mobile app](https://github.com/CreateX-Hermes/CropLocal) (React Native)
+- 🔭 I am redesigning MySTEM Academy's website (Client Project, Figma, MERN Stack)
+- 💿 I am learning AWS and MongoDB
 
 #### Previously...
+
+- 🤖 I worked with the National Robotics and Engineering Center
+
+#### Conect wth me:
+
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
