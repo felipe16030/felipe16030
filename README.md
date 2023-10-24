@@ -6,6 +6,12 @@ _I hope to ship code that will help people_
 
 My interests include: AI 🧠, Modelling and Simulation 📈, 80's Rock 🎸, and the NFL 🏈
 
+#### Conect wth me:
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/felipe-bergerman-932618251/)
+[![Gmail](https://skillicons.dev/icons?i=gcp)](mailto:felipebergerman@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/felipe.bergerman)
+
 #### Currently...
 
 - 🌲 I am developing [CropLocal's mobile app](https://github.com/CreateX-Hermes/CropLocal) (React Native)
@@ -16,8 +22,8 @@ My interests include: AI 🧠, Modelling and Simulation 📈, 80's Rock 🎸, an
 
 - 🤖 I worked with the National Robotics and Engineering Center
 
-#### Conect wth me:
+#### Languages and Tools...
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/felipe-bergerman-932618251/)
-[![Google](https://skillicons.dev/icons?i=gcp)](felipebergerman@gmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/427113718443147274)
+![Languages](https://skillicons.dev/icons?i=js,c,cs,cpp,py,ts,java,swift)
+
+![Frameworks](https://skillicons.dev/icons?i=react,mongodb,express,nodejs,postman,aws)
