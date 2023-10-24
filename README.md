@@ -4,8 +4,8 @@ I'm a CS student at Georgia Tech, a full-stack engineer at MySTEM Academy, and a
 I hope to ship code that will help people 😄
 My interests include
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="100" />
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="300" />
 </div>
 
 
