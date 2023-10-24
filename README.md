@@ -6,6 +6,6 @@ _I hope to ship code that will help people_
 
 My interests include: AI 🧠, Modelling and Simulation 📈, 80's Rock 🎸, and the NFL 🏈
 
-## Currently...
+#### Currently...
 
 I am working on 
