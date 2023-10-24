@@ -18,4 +18,5 @@ My interests include: AI 🧠, Modelling and Simulation 📈, 80's Rock 🎸, an
 
 #### Conect wth me:
 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/felipe-bergerman-932618251/)
+
