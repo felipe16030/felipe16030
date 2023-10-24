@@ -1,5 +1,7 @@
 ### Hey There, I'm Felipe 👋
 
+I'm a CS student at Georgia Tech, a full-stack engineer at MySTEM Academy, and a full-time NFL fan 🏈
+
 <!--
 **felipe16030/felipe16030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
