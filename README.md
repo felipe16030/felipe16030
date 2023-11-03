@@ -4,7 +4,7 @@ I'm a CS student at Georgia Tech and a full-stack engineer at MySTEM Academy
 
 _I am excited to ship code that will make a difference_
 
-My interests include: AI, Modelling and Simulation, 80's Rock, and the NF
+My interests include: AI, Modelling and Simulation, 80's Rock, and the NFL
 
 #### Currently...
 
