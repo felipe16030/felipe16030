@@ -8,15 +8,17 @@ My interests include: AI, Modelling and Simulation, 80's Rock, and the NFL
 
 #### Currently...
 
-- 🌲 I am developing [CropLocal's mobile app](https://github.com/CreateX-Hermes/CropLocal) (React Native)
-- 🔭 I am redesigning MySTEM Academy's website (Client Project, Figma, MERN Stack)
-- 💿 I am learning AWS and MongoDB
+- 🧠 I am working on a machine learning project that decodes EEG brain data to identify numbers (1-9) a patient is thinking of.
+- 🎓 I am a Teaching Assistant for Georgia Tech's Systems and Network class.
+- 💻 I am learning to design a compiler from start to finish.
 
 #### Previously...
 
+- 🛠 Worked at Atlassian by shipping the first iteration Confluence's "Company Hub Analytics" page
 - 🤖 I worked with the National Robotics and Engineering Center
 - ⚡ I competed in the FIRST Tech Challenge (2019 World Champion)
 - 🏓 I worked with the GT Web Dev Club on [PunchShot Pickleball](https://github.com/GTWebDevOrg/Punchshot-Pickleball)
+- 📱 Led the development of Vial Vision's app.
 
 #### Languages and Tools...
 
